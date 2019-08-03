@@ -1,13 +1,15 @@
 #google-logo {
     position: absolute;
-    top: 300px;
-    left: 600px;
+    top: 200px;
+    left: 660px;
 }
 
 #search-bar {
     position: absolute;
-    top: 400px;
-    left: 500px;
+    top: 300px;
+    left: 550px;
+    height: 34px;
+    width: 554px;
 }
 
 #button-1 {
@@ -96,4 +98,22 @@ a {
     position: absolute;
     bottom: 5px;
     left: 195px;
+}
+
+#privacy{
+    position: absolute;
+    right: 175px;
+    bottom: 5px;
+}
+
+#terms{
+    position: absolute;
+    right: 110px;
+    bottom: 5px;
+}
+
+#settings{
+    position: absolute;
+    right: 30px;
+    bottom: 5px;
 }
